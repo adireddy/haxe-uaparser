@@ -1,0 +1,10 @@
+-cmd haxelib newrepo
+
+--next
+
+-cp src
+-cp sample
+-main Main
+-js sample/output/sample.js
+-debug
+-D source-map-content
