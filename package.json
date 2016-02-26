@@ -1,5 +1,5 @@
 {
-	"name": "haxe-uaparser",
+	"name": "uaparser",
 	"version": "1.0.0",
 	"description": "Haxe externs for ua-parser-js",
 	"author": "Adi Reddy Mora",

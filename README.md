@@ -4,7 +4,7 @@ Haxe externs for UAParser.js
 ### Installation ###
 
 ```
-haxelib install haxe-uaparser
+haxelib install uaparser
 ```
 
 ### Usage ###
