@@ -1,0 +1,33 @@
+{
+	"name": "haxe-uaparser",
+	"version": "1.0.0",
+	"description": "Haxe externs for ua-parser-js",
+	"author": "Adi Reddy Mora",
+	"homepage": "http://adireddy.github.io",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/adireddy/haxe-uaparser"
+	},
+	"bugs": {
+		"url": "https://github.com/adireddy/haxe-uaparser/issues"
+	},
+	"keywords": [
+		"user agent",
+		"parser",
+		"ua",
+		"device",
+		"detection",
+		"browser",
+		"mobile",
+		"tablet"
+	],
+	"dependencies": {
+		"grunt": "latest",
+		"grunt-cli": "latest"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"grunt-haxe": "^0.1.12",
+		"grunt-zip": "^0.16.0"
+	}
+}
