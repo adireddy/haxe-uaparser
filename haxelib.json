@@ -1,0 +1,25 @@
+{
+	"name": "haxe-uaparser",
+	"classPath": "src",
+	"license": "MIT",
+	"tags": [
+		"user agent",
+		"parser",
+		"ua",
+		"device",
+		"detection",
+		"browser",
+		"mobile",
+		"tablet"
+	],
+	"description": "Haxe externs for ua-parser-js",
+	"contributors": [
+		"adireddy"
+	],
+	"releasenote": "initial release",
+	"version": "1.0.0",
+	"url": "https://github.com/adireddy/haxe-uaparser",
+	"dependencies": {
+
+	}
+}
