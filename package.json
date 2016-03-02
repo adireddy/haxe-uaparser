@@ -1,6 +1,6 @@
 {
 	"name": "uaparser",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Haxe externs for ua-parser-js",
 	"author": "Adi Reddy Mora",
 	"homepage": "http://adireddy.github.io",

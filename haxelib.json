@@ -17,7 +17,7 @@
 		"adireddy"
 	],
 	"releasenote": "initial release",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"url": "https://github.com/adireddy/haxe-uaparser",
 	"dependencies": {
 
